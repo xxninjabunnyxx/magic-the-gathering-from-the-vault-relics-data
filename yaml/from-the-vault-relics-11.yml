@@ -1,0 +1,109 @@
+---
+object: card
+id: 52cb8c89-d8f3-4879-8ef7-a954b09ddce5
+oracle_id: 96230edf-568a-47dd-b877-9d92aa58fac8
+multiverse_ids:
+- 212637
+mtgo_id: 37641
+mtgo_foil_id: 37642
+tcgplayer_id: 36766
+cardmarket_id: 242239
+name: Nevinyrral's Disk
+lang: en
+released_at: '2010-08-27'
+uri: https://api.scryfall.com/cards/52cb8c89-d8f3-4879-8ef7-a954b09ddce5
+scryfall_uri: https://scryfall.com/card/v10/11/nevinyrrals-disk?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/2/52cb8c89-d8f3-4879-8ef7-a954b09ddce5.jpg?1567827552
+  normal: https://cards.scryfall.io/normal/front/5/2/52cb8c89-d8f3-4879-8ef7-a954b09ddce5.jpg?1567827552
+  large: https://cards.scryfall.io/large/front/5/2/52cb8c89-d8f3-4879-8ef7-a954b09ddce5.jpg?1567827552
+  png: https://cards.scryfall.io/png/front/5/2/52cb8c89-d8f3-4879-8ef7-a954b09ddce5.png?1567827552
+  art_crop: https://cards.scryfall.io/art_crop/front/5/2/52cb8c89-d8f3-4879-8ef7-a954b09ddce5.jpg?1567827552
+  border_crop: https://cards.scryfall.io/border_crop/front/5/2/52cb8c89-d8f3-4879-8ef7-a954b09ddce5.jpg?1567827552
+mana_cost: "{4}"
+cmc: 4.0
+type_line: Artifact
+oracle_text: |-
+  Nevinyrral's Disk enters the battlefield tapped.
+  {1}, {T}: Destroy all artifacts, creatures, and enchantments.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 3e3ea3e8-3d63-481f-b3ec-03c4f50b602e
+set: v10
+set_name: 'From the Vault: Relics'
+set_type: from_the_vault
+set_uri: https://api.scryfall.com/sets/3e3ea3e8-3d63-481f-b3ec-03c4f50b602e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Av10&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/v10?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/52cb8c89-d8f3-4879-8ef7-a954b09ddce5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A96230edf-568a-47dd-b877-9d92aa58fac8&unique=prints
+collector_number: '11'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steve Argyle
+artist_ids:
+- a44ddda4-5331-4f83-aac9-3e00ed36bd7b
+illustration_id: cf3ba670-e8f7-4f8c-aa1c-3609da50dc4e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 848
+penny_rank: 1127
+prices:
+  usd: 
+  usd_foil: '3.32'
+  usd_etched: 
+  eur: 
+  eur_foil: '2.99'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=212637
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nevinyrral%27s+Disk&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nevinyrral%27s+Disk&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nevinyrral%27s+Disk
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/36766?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nevinyrral%27s+Disk&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/37641?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
